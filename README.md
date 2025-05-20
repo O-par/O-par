@@ -23,23 +23,17 @@
 
 ## 🚀 Projects
 
-- **[Live Satellite Orbit Visualizer](#)**  
+- **[Live Satellite Orbit Visualizer](https://github.com/O-par/Satellites)**  
   <sub><sup>*C, Raylib, SGP4, libcurl, Valgrind*</sup></sub>  
   Real-time 3D visualization of >11,000 satellites using TLE data & custom C rendering pipeline. Efficient, memory-safe, and fast!
 
-- **[Fractal Visualization Tool](#)**  
+- **[Fractal Visualization Tool](https://github.com/O-par/FractalViewer)**  
   <sub><sup>*C++, SFML, Complex Numbers*</sup></sub>  
   Interactive Mandelbrot & Julia set explorer—pixel-perfect and mathematically mesmerizing.
 
-- **[Raycasting Engine Simulator](#)**  
+- **[Raycasting Engine Simulator](https://github.com/O-par/RayCaster)**  
   <sub><sup>*C++, SFML, DDA algorithm*</sup></sub>  
   Old-school Wolfenstein-style 3D engine: pure math, pure fun, pure nostalgia.
-
-- **[Steady Study Chrome Extension](#)**  
-  <sub><sup>*JavaScript, HTML/CSS*</sup></sub>  
-  Spaced-repetition flashcards delivered as you browse, built from scratch for the Congressional App Challenge.
-
-> *Check out more cool stuff in my pinned repos!*
 
 ---
 
