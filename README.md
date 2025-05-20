@@ -15,7 +15,7 @@
 
 ---
 
-🎓 **Computer Science Student @ University of Montreal**  
+🎓 **Sophomore Computer Science Student @ University of Montreal**  
 🛰️ **Low-level programming + creative visualization**  
 🏆 **Competitive programmer, hardware tinkerer, and explorer of code frontiers!**
 
@@ -25,7 +25,7 @@
 
 - **[Live Satellite Orbit Visualizer](https://github.com/O-par/Satellites)**  
   <sub><sup>*C, Raylib, SGP4, libcurl, Valgrind*</sup></sub>  
-  Real-time 3D visualization of >11,000 satellites using TLE data & custom C rendering pipeline. Efficient, memory-safe, and fast!
+  Real-time 3D visualization of >11,000 satellites using TLE data & custom C rendering pipeline.
 
 - **[Fractal Visualization Tool](https://github.com/O-par/FractalViewer)**  
   <sub><sup>*C++, SFML, Complex Numbers*</sup></sub>  
@@ -33,7 +33,7 @@
 
 - **[Raycasting Engine Simulator](https://github.com/O-par/RayCaster)**  
   <sub><sup>*C++, SFML, DDA algorithm*</sup></sub>  
-  Old-school Wolfenstein-style 3D engine: pure math, pure fun, pure nostalgia.
+  Old-school Wolfenstein-style 3D engine.
 
 ---
 
@@ -69,7 +69,6 @@
 
 - Email: oscar.parent.dev@gmail.com
 - [LinkedIn](https://linkedin.com/in/oscpardev)
-- [GitHub](https://github.com/O-par)
 
 <!--
 If you upload your resume, add:
