@@ -4,6 +4,8 @@ In Longyearbyen, Svalbard studying geophysics and space instrumentation until 20
 
 Mostly work on projects in C/C++ at the moment and mainly interested in Satellites, HAM, comp. prog., drones and math sims. 
 
+Currently moving from github to codeberg! https://codeberg.org/O-par
+
 --------
 Take a look at my projects: 
 
